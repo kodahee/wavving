@@ -166,7 +166,7 @@ function Header() {
         <Logo
           variants={logoVariants}
           whileHover="animate"
-          src={require("../Images/jetflix.png")}
+          src={require("../Images/wavving.png")}
           onClick={handleVideoEnd}
         ></Logo>
         <Items>
